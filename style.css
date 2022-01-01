@@ -1,0 +1,42 @@
+body {
+    background-color:bisque;
+}
+
+.Titulo {
+    text-align: center;
+    margin-top:0.95px;
+}
+
+.Instructions{
+    margin-top: 12px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+p {
+    color:darkturquoise;
+}
+
+.grid img {
+    border: 2px solid black;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Origami {
+    margin-left: 40%;
+    border-radius: 20px;
+    background-color: bisque;
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+
+    width:310px;
+    font-family: fantasy;
+}
